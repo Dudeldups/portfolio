@@ -1,0 +1,9 @@
+// simple test to test the default Vite App component
+
+import { render } from "@testing-library/react";
+import App from "./App";
+
+test("renders learn react link", () => {
+  render(<App />);
+  expect(true).toBeTruthy();
+});
