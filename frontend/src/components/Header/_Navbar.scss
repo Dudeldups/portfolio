@@ -1,0 +1,11 @@
+@use "../../scss/abstracts" as *;
+
+.navbar {
+  display: flex;
+  gap: 2rem;
+
+  ul {
+    display: flex;
+    gap: 1rem;
+  }
+}

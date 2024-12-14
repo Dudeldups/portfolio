@@ -1,8 +1,4 @@
-import "./Skills.scss";
-
-// type SkillsProps = {
-//
-//}
+import "./_Skills.scss";
 
 const Skills = () => {
   return <section>Skills</section>;
