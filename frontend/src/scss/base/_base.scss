@@ -4,3 +4,13 @@ body {
   background: #333;
   color: white;
 }
+
+#root {
+  min-height: 100vh;
+}
+
+.app {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  min-height: 100vh;
+}
