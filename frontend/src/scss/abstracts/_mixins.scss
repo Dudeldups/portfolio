@@ -61,3 +61,14 @@
 @mixin padding-inline($add: 0) {
   padding-inline: $padding-inline-content;
 }
+
+@mixin reset-sr-only {
+  clip: auto;
+  clip-path: none;
+  height: auto;
+  width: auto;
+  margin: 0;
+  overflow: visible;
+  padding: 0;
+  position: static;
+}
