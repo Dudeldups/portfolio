@@ -4,12 +4,6 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <ul>
-        <li>Github</li>
-        <li>LinkedIn</li>
-        <li>Mail</li>
-      </ul>
-
-      <ul>
         <li>
           <a href="#about">About</a>
         </li>
