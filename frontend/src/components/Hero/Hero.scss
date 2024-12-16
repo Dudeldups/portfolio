@@ -1,0 +1,13 @@
+@use "../../scss/abstracts" as *;
+
+.hero {
+  &__socials {
+    display: flex;
+    gap: 1rem;
+
+    a {
+      color: inherit;
+      font-size: 2.25rem;
+    }
+  }
+}
