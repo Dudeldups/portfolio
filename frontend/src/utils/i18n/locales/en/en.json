@@ -1,0 +1,46 @@
+{
+  "GENERAL": {
+    "OPENS_IN_NEW_TAB": "opens in new tab"
+  },
+
+  "NAV": {
+    "ABOUT": "About",
+    "PROJECTS": "Projects",
+    "CONTACT": "Contact"
+  },
+
+  "HERO": {
+    "TITLE": "Hi, I'm Arne",
+    "LOCATION_DESCR": "I'm based in",
+    "LOCATION": "Dortmund / Germany",
+    "ROLE": "Full-Stack Web Developer",
+    "INTRO": "I build cool stuff for the web.",
+    "ALIAS": "Online, I go by <1>Dudeldups</1>."
+  },
+
+  "ABOUT": {
+    "TITLE": "About Me",
+    "DESCRIPTION": "Hey, my name is Arne Jacob, and I'm a Full-Stack Web Developer. JavaScript games got me into coding, and what started as a fun challenge kicked off my journey into web development. I focus on creating user-friendly interfaces and bringing seamless functionality to everything I put my hands on."
+  },
+
+  "ELMO": {
+    "TITLE": "My dog Elmo",
+    "DESCRIPTION": "Meet Elmo, my loyal sidekick. He's always there to keep me company — and occasionally steal the spotlight."
+  },
+
+  "SKILLS": {
+    "TITLE": "Tech stack",
+    "DESCRIPTION": "I have experience with a variety of technologies and tools. Here are some I work with:"
+  },
+
+  "PROJECTS": {
+    "TITLE": "My projects",
+    "DESCRIPTION": "Have a look at some of the projects I've worked on. You can also visit the live demo or view the repository on GitHub.",
+    "TECH_USED": "Technologies used:"
+  },
+
+  "CONTACT": {
+    "TITLE": "Contact Me",
+    "DESCRIPTION": "I'm always open to new projects. Whether you have a question or just want to say hi, my inbox is always open."
+  }
+}

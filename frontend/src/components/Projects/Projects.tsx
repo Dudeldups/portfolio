@@ -3,18 +3,20 @@ import { projects } from "../../data/projects";
 import { skills } from "../../data/skills";
 import Skills from "./_Skills";
 import "./Projects.scss";
+import { useTranslation } from "react-i18next";
 
 const Projects = () => {
+  const { t, i18n } = useTranslation();
+
+  const appLanguage = i18n.resolvedLanguage === "de" ? "de" : "en";
+
   return (
     <section id="projects" className="projects">
       <Skills />
 
       <div className="projects__inner">
-        <h2>My Projects</h2>
-        <p>
-          Have a look at some of the projects I've worked on. You can also visit
-          the live demo or view the repository on GitHub.
-        </p>
+        <h2>{t("PROJECTS.TITLE")}</h2>
+        <p>{t("PROJECTS.DESCRIPTION")}</p>
 
         <ul className="projects__list">
           {projects.map((project, index) => (
@@ -24,12 +26,12 @@ const Projects = () => {
 
                 <figcaption>
                   <h3>{project.title}</h3>
-                  <p>{project.description}</p>
+                  <p>{project.description[appLanguage]}</p>
                 </figcaption>
               </figure>
 
               <div className="project__tech">
-                <strong>Technologies used:</strong>{" "}
+                <span className="sr-only">{t("PROJECTS.TECH_USED")}</span>{" "}
                 {skills.map(
                   (skill, index) =>
                     project.techStack.includes(skill.name) && (
@@ -50,7 +52,7 @@ const Projects = () => {
                   href={project.repositoryUrl}
                   target="_blank"
                   rel="noopener noreferrer">
-                  <span>View Repository</span>
+                  <span>Repository</span>
                   <ImNewTab />
                 </a>
               </div>

@@ -1,0 +1,46 @@
+{
+  "GENERAL": {
+    "OPENS_IN_NEW_TAB": "öffnet in neuem Tab"
+  },
+
+  "NAV": {
+    "ABOUT": "Über mich",
+    "PROJECTS": "Projekte",
+    "CONTACT": "Kontakt"
+  },
+
+  "HERO": {
+    "TITLE": "Hi, ich bin Arne",
+    "LOCATION_DESCR": "Ich komme aus",
+    "LOCATION": "Dortmund",
+    "ROLE": "Full-Stack Web Entwickler",
+    "INTRO": "Ich baue coole Sachen für das Web.",
+    "ALIAS": "Online bin ich als <1>Dudeldups</1> unterwegs."
+  },
+
+  "ABOUT": {
+    "TITLE": "Über mich",
+    "DESCRIPTION": "Hey, mein Name ist Arne Jacob und ich bin ein Full-Stack Web Entwickler. Durch JavaScript Spiele bin ich zum Coden gekommen, und was als lustige Herausforderung begann, hat meine Reise in die Webentwicklung gestartet. Ich konzentriere mich darauf, benutzerfreundliche Oberflächen zu erstellen und nahtlose Funktionalität in alles zu bringen, was ich anfasse."
+  },
+
+  "ELMO": {
+    "TITLE": "Mein Hund Elmo",
+    "DESCRIPTION": "Das ist Elmo, mein treuer Begleiter. Er ist immer da, um mir Gesellschaft zu leisten - und gelegentlich das Rampenlicht zu stehlen."
+  },
+
+  "SKILLS": {
+    "TITLE": "Tech Stack",
+    "DESCRIPTION": "Ich habe Erfahrung in einer Vielzahl von Technologien und Tools. Hier sind einige, mit denen ich arbeite:"
+  },
+
+  "PROJECTS": {
+    "TITLE": "Meine Projekte",
+    "DESCRIPTION": "Entdecke einige der Projekte, an denen ich gearbeitet habe. Du kannst auch die jeweilige Webseite besuchen oder das Repository auf GitHub ansehen.",
+    "TECH_USED": "Verwendete Technologien:"
+  },
+
+  "CONTACT": {
+    "TITLE": "Nimm Kontakt auf",
+    "DESCRIPTION": "Ich bin immer offen für neue Projekte. Ob du eine Frage hast oder einfach nur hallo sagen möchtest, ich würde mich über eine Nachricht freuen."
+  }
+}

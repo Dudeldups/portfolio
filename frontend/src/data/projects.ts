@@ -1,6 +1,6 @@
 export type Project = {
   title: string;
-  description: string;
+  description: { en: string; de: string };
   image: string;
   techStack: string[];
   url: string;
@@ -10,7 +10,10 @@ export type Project = {
 export const projects: Project[] = [
   {
     title: "Scoot website",
-    description: "A multi-page website for a fictional scooter company",
+    description: {
+      en: "A multi-page website for a fictional scooter company",
+      de: "Eine mehrseitige Website für ein fiktives Rollerunternehmen",
+    },
     image: "/assets/images/project-previews/scoot.png",
     techStack: ["React", "TypeScript", "Styled Components"],
     url: "https://dudeldups.github.io/FM-scoot-website/",
@@ -18,7 +21,10 @@ export const projects: Project[] = [
   },
   {
     title: "Portfolio website",
-    description: "My personal portfolio website",
+    description: {
+      en: "My personal portfolio website",
+      de: "Meine persönliche Portfolio-Website",
+    },
     image: "/assets/images/project-previews/portfolio.png",
     techStack: ["React", "TypeScript", "Sass"],
     url: "https://dudeldups.dev/",
@@ -26,7 +32,10 @@ export const projects: Project[] = [
   },
   {
     title: "Maker landing page",
-    description: "A landing page for a fictional product",
+    description: {
+      en: "A landing page for a fictional product",
+      de: "Eine Landingpage für ein fiktives Produkt",
+    },
     image: "/assets/images/project-previews/maker.png",
     techStack: ["HTML", "TypeScript", "Tailwind CSS"],
     url: "https://dudeldups.github.io/FM-maker-landing-page/",
@@ -34,7 +43,10 @@ export const projects: Project[] = [
   },
   {
     title: "Cofferoasters website",
-    description: "A multi-page website for a fictional coffee company",
+    description: {
+      en: "A multi-page website for a fictional coffee company",
+      de: "Eine mehrseitige Website für ein fiktives Kaffeeunternehmen",
+    },
     image: "/assets/images/project-previews/coffeeroasters.png",
     techStack: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
     url: "https://coffeeroasters-9000.netlify.app/",
