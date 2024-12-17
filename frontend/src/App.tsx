@@ -1,8 +1,10 @@
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero/Hero";
 import Projects from "./components/Projects/Projects";
+import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import ScrollToTop from "./components/ScrollToTop";
+
 import { useRef } from "react";
 import useScroll from "./hooks/useScroll";
 
@@ -17,6 +19,7 @@ const App = () => {
       <main role="main" id="main-content">
         <Hero />
         <Projects />
+        <Contact />
       </main>
       <Footer />
 
