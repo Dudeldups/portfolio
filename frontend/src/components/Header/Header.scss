@@ -1,5 +1,5 @@
-@use "../../scss/abstracts" as *;
-@use "../../scss/base";
+@use "@/scss/abstracts" as *;
+@use "@/scss/base";
 
 .skip-link {
   @extend .sr-only;
