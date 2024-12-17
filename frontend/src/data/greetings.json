@@ -1,0 +1,152 @@
+{
+  "de": {
+    "casual": "Hallo",
+    "morning": "Guten Morgen",
+    "afternoon": "Guten Tag",
+    "evening": "Guten Abend"
+  },
+  "en": {
+    "casual": "Hello",
+    "morning": "Good morning",
+    "afternoon": "Good afternoon",
+    "evening": "Good evening"
+  },
+  "es": {
+    "casual": "Hola",
+    "morning": "Buenos días",
+    "afternoon": "Buenas tardes",
+    "evening": "Buenas noches"
+  },
+  "fr": {
+    "casual": "Salut",
+    "morning": "Bonjour",
+    "afternoon": "Bon après-midi",
+    "evening": "Bonsoir"
+  },
+  "it": {
+    "casual": "Ciao",
+    "morning": "Buongiorno",
+    "afternoon": "Buon pomeriggio",
+    "evening": "Buonasera"
+  },
+  "nl": {
+    "casual": "Hallo",
+    "morning": "Goedemorgen",
+    "afternoon": "Goedemiddag",
+    "evening": "Goedenavond"
+  },
+  "pt": {
+    "casual": "Olá",
+    "morning": "Bom dia",
+    "afternoon": "Boa tarde",
+    "evening": "Boa noite"
+  },
+  "ru": {
+    "casual": "Привет",
+    "morning": "Доброе утро",
+    "afternoon": "Добрый день",
+    "evening": "Добрый вечер"
+  },
+  "tr": {
+    "casual": "Merhaba",
+    "morning": "Günaydın",
+    "afternoon": "Tünaydın",
+    "evening": "İyi akşamlar"
+  },
+  "sv": {
+    "casual": "Hej",
+    "morning": "God morgon",
+    "afternoon": "God eftermiddag",
+    "evening": "God kväll"
+  },
+  "no": {
+    "casual": "Hei",
+    "morning": "God morgen",
+    "afternoon": "God ettermiddag",
+    "evening": "God kveld"
+  },
+  "fi": {
+    "casual": "Hei",
+    "morning": "Hyvää huomenta",
+    "afternoon": "Hyvää iltapäivää",
+    "evening": "Hyvää iltaa"
+  },
+  "da": {
+    "casual": "Hej",
+    "morning": "Godmorgen",
+    "afternoon": "God eftermiddag",
+    "evening": "God aften"
+  },
+  "pl": {
+    "casual": "Cześć",
+    "morning": "Dzień dobry",
+    "afternoon": "Dzień dobry",
+    "evening": "Dobry wieczór"
+  },
+  "cz": {
+    "casual": "Ahoj",
+    "morning": "Dobré ráno",
+    "afternoon": "Dobré odpoledne",
+    "evening": "Dobrý večer"
+  },
+  "hu": {
+    "casual": "Szia",
+    "morning": "Jó reggelt",
+    "afternoon": "Jó napot",
+    "evening": "Jó estét"
+  },
+  "ta": {
+    "casual": "வணக்கம்",
+    "morning": "காலை வணக்கம்",
+    "afternoon": "மதிய வணக்கம்",
+    "evening": "மாலை வணக்கம்"
+  },
+  "te": {
+    "casual": "హలో",
+    "morning": "శుభోదయం",
+    "afternoon": "శుభాహారం",
+    "evening": "శుభ సాయంత్రం"
+  },
+  "ko": {
+    "casual": "안녕하세요",
+    "morning": "좋은 아침",
+    "afternoon": "안녕하세요",
+    "evening": "안녕하세요"
+  },
+  "ja": {
+    "casual": "こんにちは",
+    "morning": "おはようございます",
+    "afternoon": "こんにちは",
+    "evening": "こんばんは"
+  },
+  "zh": {
+    "casual": "你好",
+    "morning": "早上好",
+    "afternoon": "下午好",
+    "evening": "晚上好"
+  },
+  "ar": {
+    "casual": "مرحبا",
+    "morning": "صباح الخير",
+    "afternoon": "مساء الخير",
+    "evening": "مساء الخير"
+  },
+  "hi": {
+    "casual": "नमस्ते",
+    "morning": "सुप्रभात",
+    "afternoon": "शुभ अपराह्न",
+    "evening": "शुभ संध्या"
+  },
+  "th": {
+    "casual": "สวัสดี",
+    "morning": "สวัสดีตอนเช้า",
+    "afternoon": "สวัสดีตอนบ่าย",
+    "evening": "สวัสดีตอนเย็น"
+  },
+  "vi": {
+    "casual": "Xin chào",
+    "morning": "Chào buổi sáng",
+    "afternoon": "Chào buổi chiều",
+    "evening": "Chào buổi tối"
+  }
+}
